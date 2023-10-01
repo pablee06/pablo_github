@@ -13,7 +13,7 @@ screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 WIDTH, HEIGHT = pygame.display.get_surface().get_size()
 
 
-background_image = pygame.image.load('background.png')
+background_image = pygame.image.load('background_new2.jpg')
 background_image = pygame.transform.scale(background_image, (WIDTH, HEIGHT))
 
 

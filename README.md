@@ -9,5 +9,6 @@ The Game is based on pygames. To run it you need to install the pygames library.
 You can do so by typing "pip install pygame" in a terminal within your IDE.
 <h2>Manual</h2>
 There is not much to learn at the moment.
-Just use the arrow keys of your keyboard to fly around the screen and try to survice as long as possible.
+Just use the ARROW KEYS of your keyboard to fly around the screen and try to survice as long as possible.
+To exit the game press ESC.
 Have fun!
