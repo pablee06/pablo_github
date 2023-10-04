@@ -3,17 +3,23 @@ pablo,54.815
 pablo,46.773
 pablo,32.711
 pabloi,27.714
+Stefan,24.995
 opijkas,22.855
 pslo,22.167
+X-Wing,20.633
 ada,18.262
 pavlo,17.95
+New,17.413
 olo,13.061
 pablo,12.731
+Stefan,12.472
 Depp 3,11.683
 pablo,11.44
 lo,10.588
 dawdadadawdadw,8.38
 pablo,7.947
+Exit,4.982
+Stefan,4.963
 lol,3.6
 Stefan,3.578
 pablo,2.398
